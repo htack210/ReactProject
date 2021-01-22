@@ -13,10 +13,7 @@ ReactDom.render(
   <div>
     <h1>Hello, world!</h1>
     <p>Created by Glenn Haertlein</p>
-    <p>
-      Copyright: 2021. The year our republic was taken from us and applauded by
-      our fellow countrymen.
-    </p>
+    <p>Copyright: 2021.</p>
   </div>,
   document.getElementById("root")
 );
